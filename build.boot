@@ -3,7 +3,8 @@
 (set-env!
   :resource-paths #{"src"}
   :dependencies   '[[org.clojure/clojure "1.8.0" :scope "provided"]
-                    [boot/core "2.6.0" :scope "provided"]])
+                    [boot/core "2.6.0" :scope "provided"]
+                    [boot/aether "2.6.0" :scope "test"]])
 
 (task-options!
   pom {:project     'metosin/boot-deps-size
