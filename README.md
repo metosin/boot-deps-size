@@ -44,6 +44,6 @@ ring/ring-core, self size 29.5 kB, recursive size 340.6 kB
 
 ## License
 
-Copyright © 2016 Juho Teperi
+Copyright © 2016-2017 Juho Teperi
 
 Distributed under the Eclipse Public License either version 1.0 or (at your option) any later version.
